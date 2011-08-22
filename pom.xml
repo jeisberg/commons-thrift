@@ -3,7 +3,7 @@
   	<url>http://maven.apache.org</url>
   	<modelVersion>4.0.0</modelVersion>
   	<artifactId>commons</artifactId>
-  	<version>2.2-SNAPSHOT</version>
+  	<version>2.1-SNAPSHOT</version>
   	<packaging>jar</packaging>
 	<name>commons</name>
 	<properties>
@@ -11,10 +11,10 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
    	</properties>
    	<scm>
-    	<connection>scm:git:https://github.com/common_thrift</connection>
-    	<developerConnection>scm:git:https://github.com/common_thrift</developerConnection>
+    	<connection>scm:git:https://github.com/commons_thrift</connection>
+    	<developerConnection>scm:git:https://github.com/commons_thrift</developerConnection>
     	<tag>HEAD</tag>
-    	<url>https://github.com/common_thrift</url>
+    	<url>https://github.com/commons_thrift</url>
   	</scm>
 	<dependencies>
     	<dependency>
