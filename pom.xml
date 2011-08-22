@@ -14,7 +14,7 @@
     	<connection>scm:git:https://github.com/commons_thrift</connection>
     	<developerConnection>scm:git:https://github.com/commons_thrift</developerConnection>
     	<tag>HEAD</tag>
-    	<url>https://github.com/commons_thrift</url>
+    	<url>https://jeisberg@github.com/jeisberg/commons-thrift.git</url>
   	</scm>
 	<dependencies>
     	<dependency>
