@@ -6,4 +6,9 @@ public class Utilities {
 		// return here
 		return target == null || target.trim().equals("");
 	}
+	
+	public static String slug(String target) {
+		// return here
+		return target;
+	}
 }
