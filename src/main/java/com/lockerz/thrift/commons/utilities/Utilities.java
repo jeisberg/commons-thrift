@@ -6,14 +6,4 @@ public class Utilities {
 		// return here
 		return target == null || target.trim().equals("");
 	}
-	
-	public static String echo(String target) {
-		// return here
-		return target;
-	}
-	
-	public static String ping(String target) {
-		// return here
-		return target;
-	}
 }
