@@ -9,3 +9,4 @@ target/classes/*
 target/maven-archiver/*
 target/surefire-reports/*
 target/test-classes/*
+target/checkout/*
